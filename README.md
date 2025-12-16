@@ -1,12 +1,38 @@
-## 🚀 اللغات والتقنيات اللي بتعلمها:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<h1 align="center">Hi 👋, I'm Ayman Shaaban</h1>
+<h3 align="center">Front-End Developer | React.js & TypeScript</h3>
+
+---
+
+- 💻 All of my projects are available on my GitHub
+- ✍️ I share my journey and updates on LinkedIn  
+- 📫 How to reach me **aymankhattap2021@gmail.com**
+- 📄 Know about my experiences  
+  👉 [Download My CV](./Ayman_Shaaban_CV.pdf)
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/ayman-shaaban-204516273/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,git,github" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="48" height="48"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanSha3ban&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSha3ban&layout=compact&theme=dark" />
+</p>
