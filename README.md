@@ -22,7 +22,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,git,github" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="48" height="48"/>
 </p>
 
