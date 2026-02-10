@@ -27,12 +27,18 @@
 </p>
 
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanSha3ban&show_icons=true&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AymanSha3ban&show_icons=true&theme=dark&hide_border=true"
+    alt="Ayman GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSha3ban&layout=compact&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSha3ban&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
