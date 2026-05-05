@@ -2,8 +2,9 @@
 <h3 align="center">Front-End Developer | React.js & TypeScript | AI Engineering Student</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ayman-shaaban-204516273/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>  
 </p>
 
 ---
@@ -31,7 +32,7 @@
 
 ### 📄 Professional Links
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/ayman-shaaban-204516273/)
-- 📄 [Download Updated CV (PDF)](رابط_الجوجل_درايف_هنا)
+- 📄 [Download Updated CV (PDF)](https://docs.google.com/document/d/1g7WppVfmHa8IjOoijE9u8LS094sUQO9J/edit?usp=sharing&ouid=107449917023773442753&rtpof=true&sd=true)
 
 ---
 
