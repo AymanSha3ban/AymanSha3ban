@@ -73,7 +73,7 @@ const developer = {
 <table>
   <tr>
     <td width="50%">
-      <h3>📚 Mayo University E-Library</h3>
+      <h3>📚 MUC E-Library</h3>
       <p>A digital library platform built for Mayo University, Cairo — enabling students to browse, search, and access academic resources online.</p>
       <p><b>Stack:</b> React · Next.js · TypeScript · Tailwind CSS</p>
       <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-64748b?style=flat-square"/>
