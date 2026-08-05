@@ -107,31 +107,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AymanSha3ban&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanSha3ban&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSha3ban&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
----
-
-## 🎯 Currently Learning / Roadmap
-
-- [x] Frontend Mastery — React, Next.js, TypeScript, Tailwind
-- [x] Data Fundamentals — SQL Server, Python for Data Analysis
-- [ ] Backend Development — Node.js / .NET
-- [ ] Databases & ORMs in depth
-- [ ] Full-Stack Projects (end-to-end)
-- [ ] DevOps Basics & Deployment Pipelines
-- [ ] Personal Portfolio Website 🎨
-- [ ] Live Demos for all featured projects 🚀
-
----
 
 <div align="center">
 
