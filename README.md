@@ -1,45 +1,40 @@
-<h1 align="center">Hi 👋, I'm Ayman Shaaban</h1>
-<h3 align="center">Front-End Developer | React.js | Next.js</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayman-shaaban-204516273/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://docs.google.com/document/d/1g7WppVfmHa8IjOoijE9u8LS094sUQO9J/edit?usp=sharing&ouid=107449917023773442753&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/-Download%20CV-EA4335?style=flat&logo=google-drive&logoColor=white" alt="CV" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-- 💻 **Front-End Developer** passionate about building modern, interactive, and highly responsive web applications.
-- ⚙️ Specialized in the React ecosystem (**React.js** & **Next.js**) along with **TypeScript** and **Tailwind CSS** to craft clean, scalable, and maintainable user interfaces.
-- 🚀 Actively advancing my frontend engineering skills through hands-on projects and intensive professional training initiatives to stay ahead in web technologies.
-- 💡 Focused on solving complex UI challenges, optimizing web performance, and delivering seamless user experiences.
+<div align="center">
+  <h1>Ayman Shaaban</h1>
+  <h3>Frontend Software Engineer | React Ecosystem</h3>
+  <p>Architecting scalable, high-performance web interfaces with modern web technologies.</p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ayman-shaaban-204516273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://docs.google.com/document/d/1g7WppVfmHa8IjOoijE9u8LS094sUQO9J/"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  </p>
+</div>
 
 ---
 
-### 🛠 Tech Stack
-- **Front-End:** React.js, Next.js, TypeScript, Tailwind CSS, JavaScript
-- **Other Languages:** Python, C++, SQL
-- **Tools:** Git, GitHub, VS Code
+## 🧠 Engineering Philosophy
+As a Frontend Developer focused on the **React** and **Next.js** ecosystem, I prioritize building accessible, responsive, and maintainable user interfaces. I write strongly typed code using **TypeScript**, manage complex application states efficiently, and style with **Tailwind CSS**. My goal is to deliver enterprise-grade digital experiences while consistently adopting rigorous engineering standards and modern development practices.
+
+## 🛠 Core Technologies
+<div align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,html,python,cpp,mysql,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <br />
+</div>
 
 ---
 
-### 📂 Featured Projects
-- 📚 **MUC Library System**: A comprehensive library management solution with a responsive frontend.
-- 🛍️ **Hijappy Store**: E-commerce platform built with advanced React logic, state management, and modern styling.
+## 🚀 Featured Architecture & Projects
+
+| Project | Description | Primary Stack |
+|---------|-------------|---------------|
+| **MUC Library System** | A comprehensive library management architecture with an intuitive, highly responsive frontend. | `React`, `Tailwind` |
+| **Hijappy Store** | Modern e-commerce platform integrating advanced state management and optimized rendering logic. | `Next.js`, `TypeScript` |
 
 ---
 
-### 📊 GitHub Activity
+## 📈 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanSha3ban&show_icons=true&theme=dark&hide_border=true" alt="Ayman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSha3ban&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanSha3ban&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&theme=react-dark" alt="Activity Graph" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanSha3ban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSha3ban&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
