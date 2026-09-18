@@ -77,14 +77,16 @@ const developer = {
       <p>A digital library platform built for Mayo University, Cairo — enabling students to browse, search, and access academic resources online.</p>
       <p><b>Stack:</b> React · Next.js · TypeScript · Tailwind CSS</p>
       <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-64748b?style=flat-square"/>
-      <a href="https://github.com/AymanSha3ban"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="[https://github.com/AymanSha3ban](https://github.com/AymanSha3ban/MUC-Library)">
+      <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%">
       <h3>🛍️ E-Commerce Store</h3>
       <p>A full-featured online store with product catalog, cart, and checkout flow — focused on clean UX and responsive design.</p>
       <p><b>Stack:</b> React · Next.js · TypeScript · Tailwind CSS</p>
       <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-64748b?style=flat-square"/>
-      <a href="https://github.com/AymanSha3ban"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="[https://github.com/AymanSha3ban](https://github.com/AymanSha3ban/E-Commerce-react-starpi)">
+      <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
@@ -93,14 +95,16 @@ const developer = {
       <p>A movie discovery website featuring browsing, search, and detailed info pages, built with a modern, dynamic UI.</p>
       <p><b>Stack:</b> React · Next.js · TypeScript · Tailwind CSS</p>
       <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-64748b?style=flat-square"/>
-      <a href="https://github.com/AymanSha3ban"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="[https://github.com/AymanSha3ban](https://github.com/AymanSha3ban/react-movie-crud)">
+      <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%">
       <h3>💬 Mini Social App</h3>
       <p>A lightweight social media application with core interaction features, built to explore state management and real-time UI patterns.</p>
       <p><b>Stack:</b> React · Next.js · TypeScript · Tailwind CSS</p>
       <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-64748b?style=flat-square"/>
-      <a href="https://github.com/AymanSha3ban"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="[https://github.com/AymanSha3ban](https://github.com/AymanSha3ban/Social-App)">
+      <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
