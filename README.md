@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/ayman-shaaban-204516273/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aymankhattap@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[https://docs.google.com/document/d/1g7WppVfmHa8IjOoijE9u8LS094sUQO9J/edit](https://drive.google.com/file/d/1oVjE1Dm6aRyso8UEa1wH8BJYTPzLA7Ve/view?usp=sharing)"><img src="https://img.shields.io/badge/CV%2FResume-0f172a?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1oVjE1Dm6aRyso8UEa1wH8BJYTPzLA7Ve/view?usp=drive_link"><img src="https://img.shields.io/badge/CV%2FResume-0f172a?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 
 </div>
 
